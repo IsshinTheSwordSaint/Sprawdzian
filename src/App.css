@@ -1,8 +1,21 @@
+#conteiner{
+  float: left;
+  width: 20%;
+  height: 35vmin;
+  border: solid black 1px;
+  border-radius: 9px;
+  text-align: center;
+}
+li{
+  list-style-position: inside;
+}
 .App {
   text-align: center;
 }
 
 .App-logo {
+  margin-left: 20%;
+  float: left;
   height: 40vmin;
   pointer-events: none;
 }
