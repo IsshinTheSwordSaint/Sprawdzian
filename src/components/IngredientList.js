@@ -1,5 +1,5 @@
 import React from "react";
-import 'c:/Users/4Mgr1/sprawdzian/src/IngredientList.css';
+import '../IngredientList.css';
 
 const IngredientList = ({ingredients}) => {
     const defaultMessage = "Brak składników do wyświetlenia";
