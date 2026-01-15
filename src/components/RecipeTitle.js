@@ -1,5 +1,5 @@
 import React from "react";
-import  'c:/Users/4Mgr1/sprawdzian/src/RecipeTitle.css';
+import  '../RecipeTitle.css';
    
 const RecipeTitle = ({title, rating, reviews}) => {
     return(
